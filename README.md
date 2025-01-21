@@ -1,7 +1,7 @@
 #### Je m'appelle Mario Ducrocq 🧑‍💻 j'ai **19 ans** !
 #### Je suis __graphiste freelance__ 👨‍🎨 et étudiant dans les domaines du **développement web** et de la **communication visuelle**. 🤓
 
-# Expériences
+# Expériences 🧪
 ### Août 2024 à Septembre 2025
 **Alternance Responsable Communication**
  - *"Opale CE", 62100 Calais*
@@ -15,7 +15,7 @@
  - *"Espace Jean d'Ormesson", 62250 Marquise*
 
 
-# Diplômes
+# Diplômes 🎓
 ### Septembre 2023 à Juillet 2025 (en cours)
 *DEUST Bureautique et Communication Multimédia, Parcours Webdesigner/Webdevelopper*
  - "Université du Littoral de la Côte d'Opale", 62100 Calais
@@ -29,7 +29,7 @@
  - "Lycée Sophie Berthelot", 62100 Calais
 
 
-# Mes Réseaux Sociaux
+# Mes Réseaux Sociaux 🚀
 ### [Facebook](https://www.facebook.com/profile.php?id=61561696416257)
 ### [Linkedin](https://www.linkedin.com/in/mario-ducrocq-a85b80258/)
 ### [YouTube](https://www.youtube.com/@MarioDcrq)
@@ -38,6 +38,6 @@
 ### [Tiktok](https://www.tiktok.com/@mario.dcrq)
 
 
-# Contactez moi !
+# Contactez moi ! 🫵
 ### Mail 
 marioducrocq.pro@gmail.com
