@@ -27,3 +27,23 @@
 ### Septembre 2019 à Juillet 2022
 *BAC Général Géopolitique et Sciences économiques & sociales*
  - "Lycée Sophie Berthelot", 62100 Calais
+
+
+# Mes Réseaux Sociaux
+### Facebook 
+Mario Ducrocq
+### Linkedin
+Mario Ducrocq
+### YouTube
+Mario Dcrq
+### Instagram
+mario.creations.pro
+### Behance
+Mario Ducrocq
+### Tiktok
+mario.dcrq
+
+
+# Contactez moi !
+### Mail 
+marioducrocq.pro@gmail.com
