@@ -1,5 +1,5 @@
-Je m'appelle Mario Ducrocq 🧑‍💻 j'ai **19 ans** !
-Je suis __graphiste freelance__ 👨‍🎨 et étudiant dans les domaines du **développement web** et de la **communication visuelle**. 🤓
+#### Je m'appelle Mario Ducrocq 🧑‍💻 j'ai **19 ans** !
+#### Je suis __graphiste freelance__ 👨‍🎨 et étudiant dans les domaines du **développement web** et de la **communication visuelle**. 🤓
 
 # Expériences
 ### Août 2024 à Septembre 2025
