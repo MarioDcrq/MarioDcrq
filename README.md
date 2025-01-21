@@ -30,18 +30,12 @@
 
 
 # Mes Réseaux Sociaux
-### Facebook 
-Mario Ducrocq
-### Linkedin
-Mario Ducrocq
-### YouTube
-Mario Dcrq
-### Instagram
-mario.creations.pro
-### Behance
-Mario Ducrocq
-### Tiktok
-mario.dcrq
+### [Facebook](https://www.facebook.com/profile.php?id=61561696416257)
+### [Linkedin](https://www.linkedin.com/in/mario-ducrocq-a85b80258/)
+### [YouTube](https://www.youtube.com/@MarioDcrq)
+### [Instagram](https://www.instagram.com/mario.creations.pro/)
+### [Behance](https://www.behance.net/marioducrocq)
+### [Tiktok](https://www.tiktok.com/@mario.dcrq)
 
 
 # Contactez moi !
